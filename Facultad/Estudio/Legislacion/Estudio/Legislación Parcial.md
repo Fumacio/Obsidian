@@ -1,4 +1,4 @@
-- Preguntas importantes en:
+- Preguntas importantes de:
 [[10-9 Legislación]]
 
 ### **1. Atributos de la personalidad**
