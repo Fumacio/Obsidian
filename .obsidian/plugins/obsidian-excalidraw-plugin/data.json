@@ -70,7 +70,7 @@
   "allowWheelZoom": false,
   "zoomToFitOnOpen": true,
   "zoomToFitOnResize": false,
-  "zoomToFitMaxLevel": 2,
+  "zoomToFitMaxLevel": 1.5,
   "zoomStep": 0.05,
   "zoomMin": 0.1,
   "zoomMax": 30,
