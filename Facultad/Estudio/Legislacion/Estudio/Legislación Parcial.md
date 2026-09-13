@@ -1,4 +1,4 @@
-- Preguntas importantes de:
+Preguntas importantes de:
 [[10-9 Legislación]]
 
 ### **1. Atributos de la personalidad**
@@ -48,4 +48,6 @@ La división de poderes consiste en distribuir el poder estatal en diferentes ó
     
     - **Quién lo integra:** Un conjunto de órganos encabezado por la **Corte Suprema de Justicia de la Nación** (órgano máximo), los **tribunales inferiores** (juzgados federales de primera instancia y cámaras federales de apelación), el **Consejo de la Magistratura** y el **Jurado de Enjuiciamiento**.
     - **A qué se dedica:** Ejerce la función jurisdiccional o administración de justicia, que consiste en aplicar la ley para resolver conflictos entre partes de manera independiente e imparcial.
+---
+
 

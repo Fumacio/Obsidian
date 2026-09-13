@@ -18,6 +18,6 @@ Tiene valor patrimonial
 
 #preguntasimportantes 
 - Atributos de la personalidad
-- constitución
-- articulo 75 inciso 22 reforma 1994
-- division de poder quien lo integra y a qué se dedican
+- Constitución
+- Articulo 75 inciso 22 reforma 1994
+- División de poder quien lo integra y a qué se dedican
