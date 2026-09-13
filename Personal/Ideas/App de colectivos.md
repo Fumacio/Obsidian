@@ -7,5 +7,4 @@ Puede ayudarte a saber que colectivo te conviene más tomar de un punto X a un p
 
 ## Posibles Funciones
 
-- [ ] Zonas peligrosas
-- [ ] 
+- [ ] Zonas peligrosas: 
