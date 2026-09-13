@@ -8,4 +8,4 @@ Puede ayudarte a saber que colectivo te conviene más tomar de un punto X a un p
 ## Posibles Funciones
 
 - [ ] Zonas peligrosas: Que los usuarios puedan agregar tipo "Reseña" o aviso de un delito cometido en una zona de la provincia que se va a ir marcando con un circulo de color rojo y se va a ir haciendo mas rojo y opaco conforme haya mas delitos cerca
-- [ ] 
+- [ ] Mostrar los precios basados en la linea que tomes y no un word gigante como tucubus
