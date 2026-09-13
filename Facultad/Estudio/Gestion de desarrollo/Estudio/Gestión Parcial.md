@@ -8,7 +8,7 @@
 
 ---
 
-## 1. Fundamentos-del-Software-y-Requerimientos.pdf
+## 1. Fundamentos del Software y Requerimientos.pdf
 
 ### Concepto y Gestión de Proyecto de Software
 
